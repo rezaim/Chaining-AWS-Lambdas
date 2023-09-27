@@ -61,4 +61,4 @@ def lambda_handler(event, context):
         "body": json.dumps(response)
     }
 ```
-<span style="color:red;">**Note:**</span>  Remember to replace `"your_username"` and `"your_password"` with the actual values you want to pass from `scheduler_lambda` to `worker_lambda`.
+![#f03c15] **Note:**  `#f03c15`  Remember to replace `"your_username"` and `"your_password"` with the actual values you want to pass from `scheduler_lambda` to `worker_lambda`.

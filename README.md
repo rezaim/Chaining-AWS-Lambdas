@@ -62,4 +62,4 @@ def lambda_handler(event, context):
     }
 ```
 
-<font color="#FF3366">Note:</font>:  Remember to replace `"your_username"` and `"your_password"` with the actual values you want to pass from `scheduler_lambda` to `worker_lambda`.
+<font color=#FF3366>Note:</font>  Remember to replace `"your_username"` and `"your_password"` with the actual values you want to pass from `scheduler_lambda` to `worker_lambda`.
